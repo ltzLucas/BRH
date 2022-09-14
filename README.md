@@ -1,5 +1,5 @@
 <h1 aling="center"> Projeto BRH</h1>
-<li><h2>Status:</h2> Desenvolvimento </li> 
+<h2>Status: Desenvolvimento </h2>
 Projeto de aprendizado para a empresa BRX Retail feito pela Alura 
 
 ## :hammer: Lista de aprendizados
